@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: todoapp
-        image: devopstraning1235/todoapp:replaceImageTag
+        image: devopstraning1235/todoapp:25
         ports:
         - containerPort: 4000
