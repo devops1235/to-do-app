@@ -16,4 +16,4 @@ spec:
       - name: todoapp
         image: devopstraning1235/todoapp:25
         ports:
-        - containerPort: 4000
+        - containerPort: 8080
